@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: phoenixboy.me
+Token: 6bfe35d00b5d6153ff38fc5a6f402b80d4c064335a428de926ea7d25eec22fb6
